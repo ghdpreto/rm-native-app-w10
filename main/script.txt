@@ -18,3 +18,4 @@ Get-AppxPackage *Microsoft3DViewer* | Remove-AppxPackage
 Get-AppxPackage *YourPhone* | Remove-AppxPackage
 Get-AppxPackage *WindowsFeedbackHub* | Remove-AppxPackage
 Get-AppxPackage *MicrosoftSolitaireCollection* | Remove-AppxPackage 
+Get-AppxPackage *MixedReality.Portal* | Remove-AppxPackage
